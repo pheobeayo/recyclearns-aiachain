@@ -16,21 +16,27 @@ Increase Recycling Participation: Encourage more sellers to participate in recyc
 Facilitate Secure Transactions: Ensure secure and transparent transactions through blockchain payments.
 
 
+- 1
+![Screenshot](./public/screenshot1.jpg)
+
+- 2
+![Screenshot](./public/screenshot2.jpg)
+
 ## Further Works
 Enhance User Trust within the platform through user ratings, reviews, and transparent transactions.
 Mobile App development.
 Implementing the Green Token as incentives for the sellers and buyers to participate in GreenHouse Gas reduction.
 
-## Deployed on lisk testnet
-RecycleToken  deployed to 0xcA7D2E45D893293B77C878B01890C61491884a90
-Recyclearns  deployed to 0xaaE627a823bA711cEBFB35D6A560C27C094e8642
+## Deployed on aia chain
+RecycleToken  deployed to 
+Recyclearns  deployed to 
 
 
 ## Demo Video:
-https://youtu.be/gmC734Ju7cA 
+
 
 ## MVP: 
-https://recyclearns-zeta.vercel.app/
+
 
 
 ## Pitch Slide: 
@@ -42,13 +48,5 @@ https://www.canva.com/design/DAGQXNFe94A/PIKmMVgIU1j5DlqFpFiAoA/view?utm_content
  @odegha
 
 
-## Team Information for Recyclearns 
-
-Clementina Abakono : Product Manager 
-
-Adetoro Odun: Product Designer 
-
-Adewale Iyanuoluwa : Smart Contract Developer 
 
 
-Pheobeayo: Frontend Developer
